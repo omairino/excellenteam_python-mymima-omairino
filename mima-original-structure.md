@@ -2,28 +2,25 @@
 
 ## Pages
 * Home page: https://www.mima.co.il/
-* XXX page: https://www.mima.co.il/xxxxx?yyy=zzzz
-* XXX page: https://www.mima.co.il/xxxxx?yyy=zzzz
-* XXX page: https://www.mima.co.il/xxxxx?yyy=zzzz
-* XXX page: https://www.mima.co.il/xxxxx?yyy=zzzz
-* XXX page: https://www.mima.co.il/xxxxx?yyy=zzzz
+* Add fact page: https://www.mima.co.il/add_fact.php
+* Artist page: https://www.mima.co.il/artist_page.php?artist_id=258
+* Song Letter page: https://www.mima.co.il/song_letter.php?let=ד
+* Questions Archive page: https://www.mima.co.il/questions_archive.php
 
 ## Entities and Relationships
 
-### Entity1
-* property1 (type)
-* property2 (type)
-* property3 (type)
-* property4 (type)
+### Artist
+* artist_letter (str)
+* song_id (int)
+* artist_id (int)
 
-### Entity2
-* property1 (type)
-* property2 (type)
-* property3 (type)
-* property4 (type)
 
-### Entity3
-* property1 (type)
-* property2 (type)
-* property3 (type)
-* property4 (type)
+### Song
+* song_letter (str)
+* song_id (int)
+
+
+### fact
+* fact_id (type)
+* song_id (int)
+* artist_id (str)
