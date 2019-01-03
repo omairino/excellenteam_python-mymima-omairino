@@ -1,6 +1,6 @@
 # MyMima!
 
-By YOUR NAME HERE.
+By Omair Issa.
 
 
 ## Requirements
