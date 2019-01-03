@@ -12,6 +12,9 @@ ipython = "*"
 jupyter = "*"
 beautifulsoup = "*"
 beautifulsoup4 = "*"
+selenium = "*"
+requests = "*"
+html5lib = "*"
 
 [requires]
 python_version = "3.7"
