@@ -11,7 +11,7 @@ By Omair Issa.
 * Run:
         pipenv install
 ## Run scraping
-in terminal:
-        python manage.py shell
-        from facts.scraping import startscraping
-        startscraping
+##in terminal:
+       * python manage.py shell
+       * from facts.scraping import startscraping
+       * startscraping
