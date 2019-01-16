@@ -1,8 +1,6 @@
 # MyMima!
 
 By Omair Issa.
-
-
 ## Requirements
 * Python 3.7
 * pipenv
