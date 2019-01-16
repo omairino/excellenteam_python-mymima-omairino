@@ -24,7 +24,7 @@ class Fact(models.Model):
         return f"{self.content } :{self.song}"
 
 # import pickle
-
+#
 # dna = pickle.load(open("diname.p", "rb"))
 # son = pickle.load(open("disong.p", "rb"))
 # for i,x in dna.items():
